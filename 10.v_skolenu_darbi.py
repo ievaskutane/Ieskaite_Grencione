@@ -25,5 +25,5 @@
 #12 Strazds Emīls
 
 #13 Škutāne Ieva
-
+print(sin(radians(30)+fmod(13,2)))
 #14 Zīle Kristaps 
